@@ -84,9 +84,22 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
+![Screenshot 2024-10-21 203227](https://github.com/user-attachments/assets/00a63c22-d97e-4a03-9b26-43db6baf3e17)
 
+![Screenshot 2024-10-21 203333](https://github.com/user-attachments/assets/646da468-b634-4970-82fc-282031ce747f)
 
+![Screenshot 2024-10-21 203359](https://github.com/user-attachments/assets/f7684eac-42e5-440a-8e73-fd268ec84cf1)
+
+![Screenshot 2024-10-21 203446](https://github.com/user-attachments/assets/f21b0475-bea9-4925-b010-fa06ca29bac6)
+
+![Screenshot 2024-10-21 083137](https://github.com/user-attachments/assets/d0a73e49-e390-49fc-a340-8fd4a200d57f)
+
+![Screenshot 2024-10-21 083210](https://github.com/user-attachments/assets/b1f6bc70-3e01-4796-98b5-28d5ba6412aa)
+
+![Screenshot 2024-10-21 083342](https://github.com/user-attachments/assets/9764a8c9-e039-460e-8f12-ea95e904e889)
+
+![Screenshot 2024-10-21 100017](https://github.com/user-attachments/assets/3da2d90b-50fc-45a4-b5ce-ca66d8110912)
 
 ## Results: 
 
-
+Hence, the LoRaWAN gateway is configured .
